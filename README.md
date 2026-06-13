@@ -92,7 +92,6 @@ The final model was retrained on the full training set before generating test pr
 
 ```
 ├── comment-category-prediction_sneha.ipynb   # Main notebook
-├── submission.csv                             # Final predictions
 └── README.md
 ```
 
